@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35983" started-at="2018-09-22T10:59:18Z" finished-at="2018-09-22T10:59:54Z">
+    <groups>
+      <group name="SignUp">
+        <method signature="SignUpTest.signUpTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="signUpTest" class="com.bookmyroom.testng.SignUpTest"/>
+      </group> <!-- SignUp -->
+    </groups>
+    <test name="Test" duration-ms="35983" started-at="2018-09-22T10:59:18Z" finished-at="2018-09-22T10:59:54Z">
+      <class name="com.bookmyroom.testng.SignUpTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="beforeTest" is-config="true" duration-ms="3905" started-at="2018-09-22T10:59:18Z" finished-at="2018-09-22T10:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="signUpTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="signUpTest" duration-ms="10876" started-at="2018-09-22T10:59:23Z" data-provider="SignUpSheetData" finished-at="2018-09-22T10:59:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestCase_SignUp_1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nikhil Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nikhilreddyaileni@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aa1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9490222395]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Oops...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="signUpTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="signUpTest" duration-ms="4491" started-at="2018-09-22T10:59:34Z" data-provider="SignUpSheetData" finished-at="2018-09-22T10:59:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestCase_SignUp_2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nikhil Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nikhilreddyaileni@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aa2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9490222395]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Oops...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="signUpTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="signUpTest" duration-ms="4066" started-at="2018-09-22T10:59:39Z" data-provider="SignUpSheetData" finished-at="2018-09-22T10:59:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestCase_SignUp_3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nikhil Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nikhilreddyaileni@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aa3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9490222395]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Oops...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="signUpTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="signUpTest" duration-ms="3762" started-at="2018-09-22T10:59:43Z" data-provider="SignUpSheetData" finished-at="2018-09-22T10:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestCase_SignUp_4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nikhil Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nikhilreddyaileni@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aa4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9490222395]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Oops...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="signUpTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="signUpTest" duration-ms="3664" started-at="2018-09-22T10:59:47Z" data-provider="SignUpSheetData" finished-at="2018-09-22T10:59:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestCase_SignUp_5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nikhil Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nikhilreddyaileni@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aa5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9490222395]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Oops...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="signUpTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="signUpTest" duration-ms="3732" started-at="2018-09-22T10:59:50Z" data-provider="SignUpSheetData" finished-at="2018-09-22T10:59:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestCase_SignUp_6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nikhil Reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nikhil24@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aa24]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Qwerty#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9490222395]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Oops...]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="afterTest" is-config="true" duration-ms="266" started-at="2018-09-22T10:59:54Z" finished-at="2018-09-22T10:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.bookmyroom.testng.SignUpTest@351d0846]" name="afterSuite" is-config="true" duration-ms="5543" started-at="2018-09-22T10:59:55Z" finished-at="2018-09-22T11:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.bookmyroom.testng.SignUpTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
